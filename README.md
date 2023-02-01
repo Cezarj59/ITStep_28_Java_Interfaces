@@ -1,7 +1,6 @@
 <h2>AULA 28 - Trabalhando com Interfaces em Java</h2>
 
-<h4><p>Exercicios de fixação.</p></h4>
-<p>Durante a aula foram realizadas duas atividades para compreensão e fixação da utilização de <b>Interfaces</b> em Programação Orientada a Objetos com Java.</p>
+
 
 <h3>Tópicos</h3>
 <ul>
@@ -12,6 +11,8 @@
 </ul>
 
 <h3><p>Sobre a Atividade.</p></h3>
+
+<p>Durante a aula foram realizadas duas atividades para compreensão e fixação da utilização de <b>Interfaces</b> em Programação Orientada a Objetos com Java.</p>
 <h4><p>Atividade 1.</p></h4>
 <ol>
 <li>Declare os métodos abaixo, nas respectivas Interfaces: Andar, Marinho, Som, Voar.</li>
